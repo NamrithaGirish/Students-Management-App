@@ -1,4 +1,4 @@
-# etlab
+# Student Management
 
 A new Flutter project.
 
